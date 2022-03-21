@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'Colección Aldo';
+const COLLECTION_NAME = 'Aldo NFTs';
 let editions = [];
 let dots = 1;
 
